@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rozen/CLionProjects/ZMPODateTime/DateConstants.h
+
+/home/rozen/CLionProjects/ZMPODateTime/DateTime.cpp
+iostream
+-
+sstream
+-
+DateTime.h
+/home/rozen/CLionProjects/ZMPODateTime/DateTime.h
+DateConstants.h
+/home/rozen/CLionProjects/ZMPODateTime/DateConstants.h
+
+/home/rozen/CLionProjects/ZMPODateTime/DateTime.h
+string
+-
+
+/home/rozen/CLionProjects/ZMPODateTime/main.cpp
+iostream
+-
+DateTime.h
+/home/rozen/CLionProjects/ZMPODateTime/DateTime.h
+

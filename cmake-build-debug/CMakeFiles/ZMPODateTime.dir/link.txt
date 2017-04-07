@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ZMPODateTime.dir/main.cpp.o CMakeFiles/ZMPODateTime.dir/DateTime.cpp.o  -o ZMPODateTime 
